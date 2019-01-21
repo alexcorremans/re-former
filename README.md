@@ -1,24 +1,5 @@
-# README
+# Re-former
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was meant to help me learn how to build forms in Rails. It starts off building forms using nearly-pure HTML and then graduates to using the helper methods that Rails provides. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+From The Odin Project's [curriculum](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms)
